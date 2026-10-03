@@ -65,4 +65,4 @@ Screenshots: `screenshots/setup/`
 - [e.g., add a Windows victim, write a custom Wazuh rule, test file integrity monitoring]
 
 ## Author
-Kashif Raza | [LinkedIn link] | [email]
+Kashif Raza | [https://www.linkedin.com/in/kashif-raza-9091a222a/] | [kashifraza31703@gmail.com]
